@@ -35,7 +35,7 @@ def check_guess(guess, number, lower_range, upper_range):
 def play_game(lower_range, upper_range, max_attempt, number):
     attempts = 0
     won = False
-
+#ssss
     while attempts < max_attempt:
         attempts += 1
         guess = take_guess(lower_range, upper_range)
