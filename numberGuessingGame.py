@@ -30,7 +30,7 @@ def check_guess(guess, number, lower_range, upper_range):
         return "Too low"
     else:
         return "Too high"
-    #push to git
+    #push to git hub
 #track number of attempts, detect if game is over
 def play_game(lower_range, upper_range, max_attempt, number):
     attempts = 0
